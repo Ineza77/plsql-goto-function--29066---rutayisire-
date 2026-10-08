@@ -1,7 +1,7 @@
 # PL/SQL GOTO Statements and Functions — Individual Assignment III
 
 **Course:** Database Development with PL/SQL (INSY 8311)
-**Student:** <Ineza_Rutayisire_Merveille> | **ID:** <29066> | **Group:**<B>
+**Student:** <Ineza_Rutayisire_Merveille> | **ID:** <29066> | **Group B:**<B>
 
 ## Overview
 Practical work on PL/SQL `GOTO`, stored functions, exception handling, and using functions inside SQL.
