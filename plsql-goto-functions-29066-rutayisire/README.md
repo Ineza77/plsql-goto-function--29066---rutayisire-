@@ -33,3 +33,15 @@ Employee 106 has no department, 107 has salary 0, 108 has a future hire date —
 
 ## Notes
 AI disclosure: <I used an AI assistant (Claude) to generate a first draft of the SQL and the repository structure. I then ran every script myself in Oracle, checked the output, and can explain each program. Edit this to describe exactly what you did.>
+
+### Part B: Functions
+
+**B5: Functions in SQL** — Shows the functions used inside a `SELECT`: annual salary, years of service, tax and department name.
+
+![B5 select output](screenshots/B5_select_output.png)
+
+### Part C: Combined Task
+
+**C1: Payroll Validator** — Checks each employee and returns `VALID` or `INVALID` with the reason.
+
+![C1 output](screenshots/C1_output.png)
